@@ -1,5 +1,5 @@
 #Para aprender con gitbash
 
-print ('Hola')
+print ('¡Hola!')
 
 input()
